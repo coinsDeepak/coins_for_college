@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coins_for_college/static/css/main.3d8123de.css",
+    "main.js": "/coins_for_college/static/js/main.90aa2484.js",
+    "static/js/787.7207a925.chunk.js": "/coins_for_college/static/js/787.7207a925.chunk.js",
+    "index.html": "/coins_for_college/index.html",
+    "static/media/logo.svg": "/coins_for_college/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.3d8123de.css.map": "/coins_for_college/static/css/main.3d8123de.css.map",
+    "main.90aa2484.js.map": "/coins_for_college/static/js/main.90aa2484.js.map",
+    "787.7207a925.chunk.js.map": "/coins_for_college/static/js/787.7207a925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8123de.css",
+    "static/js/main.90aa2484.js"
+  ]
+}
